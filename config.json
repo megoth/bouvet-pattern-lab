@@ -20,6 +20,13 @@
     "smartypants": true
   },
   "slides": [
-    "intro"
+    "start",
+    "intro",
+    "design-system",
+    "pattern-lab",
+    "process",
+    "thoughts",
+    "alternatives",
+    "end"
   ]
 }

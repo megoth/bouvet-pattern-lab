@@ -28,6 +28,20 @@ html, body {
   min-height: 100%;
   position: relative; }
 
+section.slide {
+  border-top: solid 0.5em #ff6400;
+  display: flex;
+  flex-direction: column; }
+  section.slide .content {
+    flex: 1; }
+
+.presentation-progress {
+  margin-left: -50%;
+  margin-right: -50%; }
+  .presentation-progress .progress {
+    background: #ff6400;
+    height: 0.25em; }
+
 .deck-before, .deck-previous, .deck-next, .deck-after {
   position: absolute;
   left: -999em;
@@ -397,7 +411,8 @@ li > ol, li > ul {
       padding: 0 5%; }
 
 h1 {
-  color: #000; }
+  color: #000;
+  margin: 0; }
 
 h2 {
   color: #000;

@@ -1,7 +1,10 @@
 ---
-title: "Pattern Lab: En praktisk tilnærming til designsystem"
+title: Introduksjon
 view: none
-type: full
+type: default
 ---
 
-Av Engebreth Gudbranson og Arne Hassel
+<ul>
+<li>Hvem er vi?</li>
+<li class="slide">Bakgrunnen for presentasjonen</li>
+</ul>
