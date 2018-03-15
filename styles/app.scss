@@ -1,4 +1,9 @@
-@import './deck.core';
-@import './vertical-slide';
-@import './theme';
-@import './slides';
+@import 'deck.core';
+
+// CHOOSE ONE TRANSITION EFFECT
+@import 'fade';
+//@import 'horizontal-slide';
+//@import 'vertical-slide';
+
+@import 'theme';
+@import 'slides';

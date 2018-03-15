@@ -15,7 +15,8 @@
   top: 0;
 }
 
-.csstransitions.csstransforms .deck-container:not(.deck-menu) > .slide .deck-next, .csstransitions.csstransforms .deck-container:not(.deck-menu) > .slide .deck-after {
+.csstransitions.csstransforms .deck-container:not(.deck-menu) > .slide .deck-next,
+.csstransitions.csstransforms .deck-container:not(.deck-menu) > .slide .deck-after {
   opacity: 0;
 }
 
@@ -23,12 +24,16 @@
   opacity: 1;
 }
 
-.csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-previous, .csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-before, .csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-next, .csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-after {
+.csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-previous,
+.csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-before,
+.csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-next,
+.csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-after {
   opacity: 0;
   pointer-events: none;
 }
 
-.csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-before .slide, .csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-previous .slide {
+.csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-before .slide,
+.csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-previous .slide {
   visibility: visible;
 }
 
@@ -38,6 +43,7 @@
   pointer-events: auto;
 }
 
-.csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-child-current .deck-next, .csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-child-current .deck-after {
+.csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-child-current .deck-next,
+.csstransitions.csstransforms .deck-container:not(.deck-menu) > .deck-child-current .deck-after {
   visibility: hidden;
 }
