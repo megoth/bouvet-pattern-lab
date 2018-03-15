@@ -1,0 +1,25 @@
+{
+  "locals": {
+    "name": "Pattern Lab: En praktisk tilnærming til designsystem",
+    "owner": "Engebreth Gudbranson og Arne Hassel",
+    "description": "Designsystemer er verktøy for å dokumentere, gjenbruke, og samarbeide om design. På prosjekt med Arkivverket jobbet Engebret og Arne med et rammeverk for designsystem, nemlig Pattern Lab. En av de store fordelene med rammeverket er hvordan det fasiliterer arbeid for designer og utvikler, og Engebret og Arne vil presentere deres erfaringer rundt denne prosessen."
+  },
+  "plugins": [
+    "./plugins/slides.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "slides": [
+    "intro"
+  ]
+}
