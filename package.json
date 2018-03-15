@@ -7,13 +7,13 @@
   },
   "repository": "https://bitbucket.org/megoth/qb-frontend-overview",
   "dependencies": {
-    "moment": "2.3.x",
-    "underscore": "1.4.x",
-    "typogr": "0.5.x"
+    "moment": "2.21.x",
+    "underscore": "1.8.x",
+    "typogr": "0.6.x"
   },
   "devDependencies": {
-    "concurrently": "^3.5.0",
-    "node-sass": "^4.5.3",
+    "concurrently": "^3.5.1",
+    "node-sass": "^4.7.2",
     "wintersmith": "^2.4.1"
   }
 }
