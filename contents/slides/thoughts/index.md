@@ -25,7 +25,7 @@ Ikke noe som sier hvordan man tillegger dynamisk funksjonalitet
 <li class="slide">
     Integrasjoner med andre systemer
     <ul>
-    <li class="slide">Sketch --> Pattern Lab</li>
+    <li class="slide">Sketch --> Pattern Lab --> Sketch</li>
     <li class="slide">Pattern Lab --> Faktiske systemer</li>
     <li class="slide">Embeds i andre systemer</li>
 <!--
@@ -33,4 +33,5 @@ F.eks. Enonic XP, eller Frontify
 -->
     </ul>
 </li>
+<li class="slide">Med dette sagt - [få frem det positive]</li>
 </ul>

@@ -5,3 +5,8 @@ type: default
 ---
 
 * Takk for oss!
+
+## Nyttige lenker
+
+* Ditt
+* Datt

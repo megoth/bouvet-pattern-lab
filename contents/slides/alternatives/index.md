@@ -10,6 +10,10 @@ type: default
 Retta mot React
 "So hot right now"
 -->
+<li class="slide">react-sketchapp</li>
+<!--
+
+-->
 <li class="slide">Styleguidist</li>
 <!--
 Retta mot React
@@ -24,5 +28,9 @@ MDCSS
 Nucleus
 Ganske begrensede, liten fleksibilitet
 Veldig CSS fokusert, kanskje ikke det nivået man ønsker i design utvikling
+-->
+<li class="slide">html-sketchapp</li>
+<!--
+
 -->
 </ul>
