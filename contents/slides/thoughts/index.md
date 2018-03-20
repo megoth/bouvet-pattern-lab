@@ -16,6 +16,10 @@ Ingen store aktører som backer dem
 -->
     <li class="slide">Mustache partials &#128077;</li>
     <li class="slide">Container mønster &#128078;</li>
+    <li class="slide">Kanskje for mye fokus på markup</li>
+<!--
+Ikke noe som sier hvordan man tillegger dynamisk funksjonalitet
+-->
     </ul>
 </li>
 <li class="slide">
