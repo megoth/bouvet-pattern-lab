@@ -11,6 +11,9 @@ type: default
     <li class="slide">Kjører enten på Node eller PHP</li>
     <li class="slide">Bygges ved hjelp av Webpack, Gulp eller Grunt</li>
     <li class="slide">Bruker primært mustache som template language</li>
+<!--
+Er basicly en omfattende static site generator
+-->
     </ul>
 </li>
 <li class="slide">Legger opp til atomic design</li>
